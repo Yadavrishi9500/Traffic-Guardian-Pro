@@ -22,6 +22,8 @@ Here is the AI successfully capturing point-blank evidence of wrong-way violatio
 
 ![Wrong Way Detection 2](demo/evidence_2.jpg)
 
+![Wrong Way Detection 2](demo/evidence_3.jpg)
+
 ### 📄 Documentation
 * [Read the Full End-Term Report Here](docs/Project_Report.pdf)
 * [Read the Software Requirements Specification](docs/SRS.pdf)
