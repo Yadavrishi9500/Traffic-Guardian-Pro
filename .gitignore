@@ -1,0 +1,12 @@
+# Ignore AI model weights (they auto-download anyway)
+*.pt
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+
+# Ignore auto-generated evidence images in the main folder
+evidence_*.jpg
+
+# Ignore the live database (so you start fresh)
+traffic_data.csv
